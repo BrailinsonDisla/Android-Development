@@ -1,4 +1,4 @@
-package com.example.simpletodo;
+package com.xffbraid.simptDo;
 
 import org.junit.Test;
 

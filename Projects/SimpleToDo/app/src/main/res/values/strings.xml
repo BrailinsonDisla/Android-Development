@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleToDo</string>
+    <string name="app_name">Simple To Do</string>
     <string name="add_item">add item</string>
     <string name="task">Task</string>
 </resources>
